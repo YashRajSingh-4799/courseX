@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-Sora;
+}
+
+.btn {
+  @apply py-3 px-4 border border-royal-green-900 rounded text-royal-green-900 text-sm hover:bg-royal-green-900 hover:text-white transition-all duration-200;
+}
+.btn-filled {
+  @apply py-3 px-4 border border-royal-green-900 rounded text-sm bg-royal-green-900 text-white;
+}
