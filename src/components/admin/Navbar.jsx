@@ -31,7 +31,7 @@ function Navbar() {
       <header className="py-6 border-b border-royal-green-600">
         <nav className="container mx-auto px-8">
           <div className="flex justify-between items-center">
-            <Link className="text-lg" to="/admin">
+            <Link className="text-5xl" to="/admin">
               <strong className="text-gold-900">Course</strong>
               <strong className="text-royal-green-900">X</strong>
             </Link>
