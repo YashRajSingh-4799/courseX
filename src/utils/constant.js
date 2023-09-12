@@ -1,4 +1,4 @@
-const ROOT_URL = "https://coursex-server.vercel.app/";
+const ROOT_URL = "https://coursex.onrender.com/";
 
 // Admin Routes
 
